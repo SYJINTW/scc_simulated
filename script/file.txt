@@ -1,0 +1,7 @@
+a
+b
+c
+def
+BOOTPROTO="static"
+PermitRootLogin yes
+PermitRootLogin yes
